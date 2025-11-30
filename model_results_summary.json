@@ -1,0 +1,391 @@
+{
+  "rq1_results": {
+    "Simple Linear Regression": {
+      "train_mae": 5.999293474496011,
+      "test_mae": 6.8330365980685235,
+      "train_rmse": 7.390123358466321,
+      "test_rmse": 8.325034908558274,
+      "train_r2": 0.24490583509755537,
+      "test_r2": 0.21120651400338775,
+      "mae_ci_lower": 6.780289239185129,
+      "mae_ci_upper": 6.9849117659392865,
+      "features_used": [
+        "Score_13"
+      ]
+    },
+    "Multiple Linear Regression": {
+      "train_mae": 4.560941875799212,
+      "test_mae": 4.996896783163132,
+      "train_rmse": 5.70801994060335,
+      "test_rmse": 6.189203688900493,
+      "train_r2": 0.5495270664073952,
+      "test_r2": 0.5640258492628514,
+      "mae_ci_lower": 4.840612938837576,
+      "mae_ci_upper": 5.622160836795021,
+      "features_used": [
+        "Score_1",
+        "Score_2",
+        "Score_3",
+        "Score_4",
+        "Score_5",
+        "Score_6",
+        "Score_7",
+        "Score_8",
+        "Score_9",
+        "Score_10",
+        "Score_11",
+        "Score_12",
+        "Score_13",
+        "Score_14"
+      ]
+    },
+    "Dummy Regressor": {
+      "train_mae": 6.4385245241483,
+      "test_mae": 7.097488632758803,
+      "train_rmse": 8.504545925801361,
+      "test_rmse": 9.434711333959312,
+      "train_r2": 0.0,
+      "test_r2": -0.013090919783656174,
+      "mae_ci_lower": 7.097488632758803,
+      "mae_ci_upper": 7.097488632758803,
+      "features_used": [
+        "Score_1",
+        "Score_2",
+        "Score_3",
+        "Score_4",
+        "Score_5",
+        "Score_6",
+        "Score_7",
+        "Score_8",
+        "Score_9",
+        "Score_10",
+        "Score_11",
+        "Score_12",
+        "Score_13",
+        "Score_14"
+      ]
+    }
+  },
+  "rq2_results": {
+    "Simple Linear Regression": {
+      "train_mae": 13.39803849393322,
+      "test_mae": 13.590566767727733,
+      "train_rmse": 18.18585469720656,
+      "test_rmse": 17.911159794627267,
+      "train_r2": 0.3226666527762799,
+      "test_r2": 0.45438841860465706,
+      "mae_ci_lower": 13.49870651935866,
+      "mae_ci_upper": 13.97742287828356,
+      "features_used": [
+        "Score_13"
+      ]
+    },
+    "Multiple Linear Regression": {
+      "train_mae": 10.101132347802935,
+      "test_mae": 11.60910352710665,
+      "train_rmse": 14.087462932374839,
+      "test_rmse": 14.926752714730974,
+      "train_r2": 0.5935561122816956,
+      "test_r2": 0.6210631509409532,
+      "mae_ci_lower": 11.058893683634357,
+      "mae_ci_upper": 13.61249430208056,
+      "features_used": [
+        "Score_1",
+        "Score_2",
+        "Score_3",
+        "Score_4",
+        "Score_5",
+        "Score_6",
+        "Score_7",
+        "Score_8",
+        "Score_9",
+        "Score_10",
+        "Score_11",
+        "Score_12",
+        "Score_13",
+        "Score_14",
+        "Midterm_I"
+      ]
+    },
+    "Dummy Regressor": {
+      "train_mae": 17.371741523262372,
+      "test_mae": 19.4311959395157,
+      "train_rmse": 22.096957882607036,
+      "test_rmse": 24.25072040700193,
+      "train_r2": 0.0,
+      "test_r2": -0.00019678088334140753,
+      "mae_ci_lower": 19.4311959395157,
+      "mae_ci_upper": 19.4311959395157,
+      "features_used": [
+        "Score_1",
+        "Score_2",
+        "Score_3",
+        "Score_4",
+        "Score_5",
+        "Score_6",
+        "Score_7",
+        "Score_8",
+        "Score_9",
+        "Score_10",
+        "Score_11",
+        "Score_12",
+        "Score_13",
+        "Score_14",
+        "Midterm_I"
+      ]
+    }
+  },
+  "rq3_results": {
+    "Simple Linear Regression": {
+      "train_mae": 7.501327634325887,
+      "test_mae": 9.013605328211419,
+      "train_rmse": 10.091907716204288,
+      "test_rmse": 10.964864763820337,
+      "train_r2": 0.2962820652952498,
+      "test_r2": 0.3554759753368615,
+      "mae_ci_lower": 8.51906350896052,
+      "mae_ci_upper": 9.62403887512131,
+      "features_used": [
+        "Midterm_I"
+      ]
+    },
+    "Multiple Linear Regression": {
+      "train_mae": 5.6217993533739765,
+      "test_mae": 6.79610340614499,
+      "train_rmse": 7.504023585644634,
+      "test_rmse": 8.307392520985255,
+      "train_r2": 0.6109186096117722,
+      "test_r2": 0.6300338301707136,
+      "mae_ci_lower": 6.442120228519139,
+      "mae_ci_upper": 7.7266067714240085,
+      "features_used": [
+        "Score_1",
+        "Score_2",
+        "Score_3",
+        "Score_4",
+        "Score_5",
+        "Score_6",
+        "Score_7",
+        "Score_8",
+        "Score_9",
+        "Score_10",
+        "Score_11",
+        "Score_12",
+        "Score_13",
+        "Score_14",
+        "Midterm_I",
+        "Midterm_II"
+      ]
+    },
+    "Dummy Regressor": {
+      "train_mae": 8.373781846492523,
+      "test_mae": 10.29687004335413,
+      "train_rmse": 12.030230840091182,
+      "test_rmse": 13.834115705920828,
+      "train_r2": 0.0,
+      "test_r2": -0.025971645580612046,
+      "mae_ci_lower": 10.29687004335413,
+      "mae_ci_upper": 10.29687004335413,
+      "features_used": [
+        "Score_1",
+        "Score_2",
+        "Score_3",
+        "Score_4",
+        "Score_5",
+        "Score_6",
+        "Score_7",
+        "Score_8",
+        "Score_9",
+        "Score_10",
+        "Score_11",
+        "Score_12",
+        "Score_13",
+        "Score_14",
+        "Midterm_I",
+        "Midterm_II"
+      ]
+    }
+  },
+  "best_models": {
+    "Midterm I": {
+      "model_name": "Multiple Linear Regression",
+      "metrics": {
+        "train_mae": 4.560941875799212,
+        "test_mae": 4.996896783163132,
+        "train_rmse": 5.70801994060335,
+        "test_rmse": 6.189203688900493,
+        "train_r2": 0.5495270664073952,
+        "test_r2": 0.5640258492628514,
+        "mae_ci_lower": 4.840612938837576,
+        "mae_ci_upper": 5.622160836795021,
+        "features_used": [
+          "Score_1",
+          "Score_2",
+          "Score_3",
+          "Score_4",
+          "Score_5",
+          "Score_6",
+          "Score_7",
+          "Score_8",
+          "Score_9",
+          "Score_10",
+          "Score_11",
+          "Score_12",
+          "Score_13",
+          "Score_14"
+        ]
+      }
+    },
+    "Midterm II": {
+      "model_name": "Multiple Linear Regression",
+      "metrics": {
+        "train_mae": 10.101132347802935,
+        "test_mae": 11.60910352710665,
+        "train_rmse": 14.087462932374839,
+        "test_rmse": 14.926752714730974,
+        "train_r2": 0.5935561122816956,
+        "test_r2": 0.6210631509409532,
+        "mae_ci_lower": 11.058893683634357,
+        "mae_ci_upper": 13.61249430208056,
+        "features_used": [
+          "Score_1",
+          "Score_2",
+          "Score_3",
+          "Score_4",
+          "Score_5",
+          "Score_6",
+          "Score_7",
+          "Score_8",
+          "Score_9",
+          "Score_10",
+          "Score_11",
+          "Score_12",
+          "Score_13",
+          "Score_14",
+          "Midterm_I"
+        ]
+      }
+    },
+    "Final Exam": {
+      "model_name": "Multiple Linear Regression",
+      "metrics": {
+        "train_mae": 5.6217993533739765,
+        "test_mae": 6.79610340614499,
+        "train_rmse": 7.504023585644634,
+        "test_rmse": 8.307392520985255,
+        "train_r2": 0.6109186096117722,
+        "test_r2": 0.6300338301707136,
+        "mae_ci_lower": 6.442120228519139,
+        "mae_ci_upper": 7.7266067714240085,
+        "features_used": [
+          "Score_1",
+          "Score_2",
+          "Score_3",
+          "Score_4",
+          "Score_5",
+          "Score_6",
+          "Score_7",
+          "Score_8",
+          "Score_9",
+          "Score_10",
+          "Score_11",
+          "Score_12",
+          "Score_13",
+          "Score_14",
+          "Midterm_I",
+          "Midterm_II"
+        ]
+      }
+    }
+  },
+  "comparison_table": {
+    "Research Question": {
+      "0": "RQ1 - Midterm I",
+      "1": "RQ1 - Midterm I",
+      "2": "RQ1 - Midterm I",
+      "3": "RQ2 - Midterm II",
+      "4": "RQ2 - Midterm II",
+      "5": "RQ2 - Midterm II",
+      "6": "RQ3 - Final Exam",
+      "7": "RQ3 - Final Exam",
+      "8": "RQ3 - Final Exam"
+    },
+    "Model": {
+      "0": "Simple Linear Regression",
+      "1": "Multiple Linear Regression",
+      "2": "Dummy Regressor",
+      "3": "Simple Linear Regression",
+      "4": "Multiple Linear Regression",
+      "5": "Dummy Regressor",
+      "6": "Simple Linear Regression",
+      "7": "Multiple Linear Regression",
+      "8": "Dummy Regressor"
+    },
+    "Test MAE": {
+      "0": 6.8330365980685235,
+      "1": 4.996896783163132,
+      "2": 7.097488632758803,
+      "3": 13.590566767727733,
+      "4": 11.60910352710665,
+      "5": 19.4311959395157,
+      "6": 9.013605328211419,
+      "7": 6.79610340614499,
+      "8": 10.29687004335413
+    },
+    "Test RMSE": {
+      "0": 8.325034908558274,
+      "1": 6.189203688900493,
+      "2": 9.434711333959312,
+      "3": 17.911159794627267,
+      "4": 14.926752714730974,
+      "5": 24.25072040700193,
+      "6": 10.964864763820337,
+      "7": 8.307392520985255,
+      "8": 13.834115705920828
+    },
+    "Test R\u00b2": {
+      "0": 0.21120651400338775,
+      "1": 0.5640258492628514,
+      "2": -0.013090919783656174,
+      "3": 0.45438841860465706,
+      "4": 0.6210631509409532,
+      "5": -0.00019678088334140753,
+      "6": 0.3554759753368615,
+      "7": 0.6300338301707136,
+      "8": -0.025971645580612046
+    },
+    "MAE CI Lower": {
+      "0": 6.780289239185129,
+      "1": 4.840612938837576,
+      "2": 7.097488632758803,
+      "3": 13.49870651935866,
+      "4": 11.058893683634357,
+      "5": 19.4311959395157,
+      "6": 8.51906350896052,
+      "7": 6.442120228519139,
+      "8": 10.29687004335413
+    },
+    "MAE CI Upper": {
+      "0": 6.9849117659392865,
+      "1": 5.622160836795021,
+      "2": 7.097488632758803,
+      "3": 13.97742287828356,
+      "4": 13.61249430208056,
+      "5": 19.4311959395157,
+      "6": 9.62403887512131,
+      "7": 7.7266067714240085,
+      "8": 10.29687004335413
+    },
+    "Train-Test MAE Diff": {
+      "0": -0.8337431235725123,
+      "1": -0.43595490736391973,
+      "2": -0.6589641086105029,
+      "3": -0.19252827379451354,
+      "4": -1.5079711793037145,
+      "5": -2.0594544162533275,
+      "6": -1.5122776938855322,
+      "7": -1.1743040527710136,
+      "8": -1.923088196861606
+    }
+  }
+}
